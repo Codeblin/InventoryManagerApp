@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Inventory Manager App</string>
+    <string name="string_new_product">New Product</string>
+    <string name="hint_add_data">Press the button to add item</string>
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_product_price">Price</string>
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="hint_supplier_name">Supplier Name</string>
+    <string name="hint_supplier_email">Supplier E-mail</string>
+    <string name="hint_image">Select Image</string>
+    <string name="string_add_product">Add Product</string>
+    <string name="string_sell">Sell</string>
+    <string name="string_delete">Delete product</string>
+    <string name="string_done">Done</string>
+</resources>
